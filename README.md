@@ -8,4 +8,7 @@ To run the ShinyApp you may clone the repository, open `server.R`, `ui.R` and in
 
 This is a preview of the Shiny App:
 
-![]("assets/employmentEurope.png")
+![](https://github.com/agrou/employment_PT/blob/master/euro_employment_app/assets/employmentEurope.png?raw=true)
+
+
+
